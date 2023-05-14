@@ -6,7 +6,7 @@ custom_domains = {
         "bpi.ir",
         "arvancdn.com",
         "arvancdn.ir",
-        "arvancloud.com",
+        "arvancloud.ir",
         "blubank.com",
         "cedarmaps.com",
         "digikalacloud.com",
